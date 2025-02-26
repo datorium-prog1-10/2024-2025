@@ -1,7 +1,0 @@
-Rinda 1
-Rinda 2
-Rinda 3
-...
-Rinda 10
-
-
