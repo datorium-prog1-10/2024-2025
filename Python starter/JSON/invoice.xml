@@ -1,0 +1,23 @@
+<check>
+<StoreName>Top</StoreName>
+<Items>
+    <Item>
+            <Name>Banana</Name>
+            <Code>431</Code>
+            <Price>3.00</Price>
+            <Quantity>2</Quantity>
+    </Item>
+    <Item>
+            <Name>Banana</Name>
+            <Code>21</Code>
+            <Price>1.00</Price>
+            <Quantity>5</Quantity>
+    </Item>
+    <Item>
+            <Name>Orange</Name>
+            <Code>361</Code>
+            <Price>2.00</Price>
+            <Quantity>1</Quantity>
+    </Item>
+</Items>
+</check>

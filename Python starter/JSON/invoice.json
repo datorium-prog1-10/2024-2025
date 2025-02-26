@@ -1,1 +1,21 @@
-
+{
+    "documentName": "Pirkuma čeks",
+    "documentDate": "15/01/2025",
+    "documentTime": "09:16 CET",
+    "items": [
+        {
+            "itemID": "462tr2746rt2476tr26r",
+            "itemName": "SSD Memory",
+            "itemPrice": 42,
+            "currency": "EUR",
+            "itemCount": 1
+        },
+        {
+            "itemID": "598ty30487tb4837t3487",
+            "itemName": "LED Streamig Lights",
+            "itemPrice": 123,
+            "currency": "EUR",
+            "itemCount": 2
+        }
+    ]
+}
